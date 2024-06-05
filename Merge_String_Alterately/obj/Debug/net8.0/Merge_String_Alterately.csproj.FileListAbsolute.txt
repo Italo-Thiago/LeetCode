@@ -1,0 +1,14 @@
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\bin\Debug\net8.0\Merge_String_Alterately.exe
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\bin\Debug\net8.0\Merge_String_Alterately.deps.json
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\bin\Debug\net8.0\Merge_String_Alterately.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\bin\Debug\net8.0\Merge_String_Alterately.dll
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\bin\Debug\net8.0\Merge_String_Alterately.pdb
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\obj\Debug\net8.0\Merge_String_Alterately.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\obj\Debug\net8.0\Merge_String_Alterately.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\obj\Debug\net8.0\Merge_String_Alterately.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\obj\Debug\net8.0\Merge_String_Alterately.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\obj\Debug\net8.0\Merge_String_Alterately.dll
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\obj\Debug\net8.0\refint\Merge_String_Alterately.dll
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\obj\Debug\net8.0\Merge_String_Alterately.pdb
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\obj\Debug\net8.0\Merge_String_Alterately.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\LeetCode\Merge_String_Alterately\obj\Debug\net8.0\ref\Merge_String_Alterately.dll
